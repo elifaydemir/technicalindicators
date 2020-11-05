@@ -151,6 +151,7 @@
     "typescript": "^2.9.2"
   },
   "dependencies": {
-    "@types/node": "^6.0.96"
+    "@types/node": "^6.0.96",
+    "canvas": "^2.6.1"
   }
 }
